@@ -5,20 +5,22 @@ namespace ConsoleApp
     class Program
     {
 
-        static double Y(double n)
+        static double Y(double x)
         {
-            double x = -3 * n / 2;
-            return x;
+            double n = -3 * x / 2;
+            Console.WriteLine("Введите число: ");
+            Console.WriteLine(n);
+            return n;
         }
         static double MyRecursionMulti(double k)
         {
             if (k == 0)
             {
-                return 1;
+                return Y(k);
             }
             else
             {
-                return Y(k) * MyRecursionMulti(1);
+                return Y(k) * MyRecursionMulti(k-1);
             }
         }
         static void Main(string[] args)

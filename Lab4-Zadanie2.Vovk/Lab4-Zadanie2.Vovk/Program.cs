@@ -5,23 +5,24 @@ namespace ConsoleApp
     //класс программы
     class Program
     {
-        static double Y(double x)
-        {
-            Console.WriteLine("Введите число: ");
-            double n = (x + 1) / 5;
-            Console.WriteLine(n);
-            return n;
-        }
-
-        static double MyFunctionRecursionSum(double k)
-        {
-            if (k == 0)
+            static double Y(double x)
             {
-                return 1;
+                Console.WriteLine("Результат: ");
+                double n = (x + 1) / 5;
+                Console.WriteLine(n);
+                return n;
             }
-            else
+
+            static double MyFunctionRecursionSum(double k)
             {
-                return Y(k) * MyFunctionRecursionSum(1);
+                if (k == 0)
+                {
+                    return Y(k);
+                }
+                else
+                {
+                    return Y(k) + MyFunctionRecursionSum(k-1);
+                }
             }
             static void Main(string[] args)
             {
@@ -29,9 +30,10 @@ namespace ConsoleApp
                 double m = MyFunctionRecursionSum(F);
                 Console.WriteLine(F);
             }
-        }
+        
     }
 }
+
 
         
           

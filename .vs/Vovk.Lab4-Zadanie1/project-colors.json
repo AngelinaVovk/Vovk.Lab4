@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfa4d4b9-6f00-40e5-b629-34fa3409b3b1": {
+      "ProjectGuid": "cfa4d4b9-6f00-40e5-b629-34fa3409b3b1",
+      "DisplayName": "Vovk.Lab4-Zadanie1",
+      "ColorIndex": 0
+    },
+    "90432945-7f72-4700-8bf2-3acb8f3e33bc": {
+      "ProjectGuid": "90432945-7f72-4700-8bf2-3acb8f3e33bc",
+      "DisplayName": "Lab4-Zadanie3.Vovk",
+      "ColorIndex": 1
+    },
+    "cfce3c66-2069-496d-919d-f4ea6dfd6bf7": {
+      "ProjectGuid": "cfce3c66-2069-496d-919d-f4ea6dfd6bf7",
+      "DisplayName": "Lab4-Zadanie2.Vovk",
+      "ColorIndex": 2
+    },
+    "96f5a198-d216-49f4-9889-fa0d343b3618": {
+      "ProjectGuid": "96f5a198-d216-49f4-9889-fa0d343b3618",
+      "DisplayName": "Lab4-Zadanie2.Vovk",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
