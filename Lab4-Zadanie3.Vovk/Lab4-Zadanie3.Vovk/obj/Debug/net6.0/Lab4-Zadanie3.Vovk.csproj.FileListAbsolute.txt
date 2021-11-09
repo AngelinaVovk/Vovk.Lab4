@@ -1,0 +1,16 @@
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\bin\Debug\net6.0\Lab4-Zadanie3.Vovk.exe
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\bin\Debug\net6.0\Lab4-Zadanie3.Vovk.deps.json
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\bin\Debug\net6.0\Lab4-Zadanie3.Vovk.runtimeconfig.json
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\bin\Debug\net6.0\Lab4-Zadanie3.Vovk.dll
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\bin\Debug\net6.0\ref\Lab4-Zadanie3.Vovk.dll
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\bin\Debug\net6.0\Lab4-Zadanie3.Vovk.pdb
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.GlobalUsings.g.cs
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.csproj.AssemblyReference.cache
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.AssemblyInfoInputs.cache
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.AssemblyInfo.cs
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.csproj.CoreCompileInputs.cache
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.dll
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\ref\Lab4-Zadanie3.Vovk.dll
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.pdb
+C:\Users\667\source\repos\Lab4-Zadanie3.Vovk\Lab4-Zadanie3.Vovk\obj\Debug\net6.0\Lab4-Zadanie3.Vovk.genruntimeconfig.cache
