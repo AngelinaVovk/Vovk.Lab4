@@ -12,17 +12,17 @@ namespace ConsoleApp
             int x = Convert.ToInt32(Console.ReadLine());
             int y = Convert.ToInt32(Console.ReadLine());
             int q = F3(x,y);
-            Console.WriteLine("Результат:" + q);
+            Console.WriteLine("Большее:" + q);
 
-            char p = Convert.ToChar(Console.ReadLine());
-            char k = Convert.ToChar(Console.ReadLine());
+            char p = (char)Convert.ToInt32(Console.ReadLine());
+            char k = (char)Convert.ToInt32(Console.ReadLine());
             int z = R(p, k);
-            Console.WriteLine("Результат:" + z);
+            Console.WriteLine("Большее:" + z);
 
             double a = Convert.ToDouble(Console.ReadLine());
             double r = Convert.ToDouble(Console.ReadLine());
             double w = D(a,r);
-            Console.WriteLine("Результат:" + w);
+            Console.WriteLine("Большее:" + w);
         }
         static int F1(int x)
         {
