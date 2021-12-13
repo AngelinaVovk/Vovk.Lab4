@@ -7,7 +7,7 @@ namespace ConsoleApp
 
         static double Y(double x)
         {
-            double n = -3 * x / 2;
+            double n = -3 * x / 2.0;
             return n;
         }
         static double MyRecursionMulti(double k)
