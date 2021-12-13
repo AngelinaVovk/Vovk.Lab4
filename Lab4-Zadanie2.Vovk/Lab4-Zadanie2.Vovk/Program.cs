@@ -7,7 +7,7 @@ namespace ConsoleApp
     {
             static double Y(double x)
             {
-                double n = (x + 1) / 5;
+                double n = (x + 1) / 5.0;
                 return n;
             }
 
